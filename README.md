@@ -35,26 +35,39 @@
 
 ---
 
+# Lecciones
 # Lección 1 — El Control del Jugador
 
 ## Objetivo
 Implementar control del jugador con Rigidbody y entradas básicas.
 
-## Evidenvias
-- `PlayerController.cs`
-- `Scene_Main.unity`
-- Capturas: `captura_01.png`, `captura_02.png`
-- Video: `demo_leccion1.mp4`
-
-## Challenge
-
+## Evidencias
+- Capturas
+  [Leccion 01 Player Control.pdf](https://github.com/user-attachments/files/22724621/Leccion.01.Player.Control.pdf)
+- Video
+- Asset
+  [PlayerControl.zip](https://github.com/user-attachments/files/22724692/PlayerControl.zip)
 
 ## Descripción de la solución
-(Explicar en 4–6 líneas cómo se resolvió, problemas encontrados y cómo se solucionaron).
+Se movio la elice del avión, se acomodaron las direcciones del avión dentro del ódigo y la rapidez.
 
-## Cómo probar
-1. Abrir la escena `Scene_Main.unity`
-2. Presionar Play
-3. Mover personaje con WASD / Flechas
+---
+
+# Lección 2 — Jugabilidad básica
+
+## Objetivo
+Implementar control del jugador con Rigidbody y entradas básicas.
+
+## Evidencias
+- Capturas
+  [Leccion 01 Player Control.pdf](https://github.com/user-attachments/files/22724621/Leccion.01.Player.Control.pdf)
+- Video
+- Asset
+  [PlayerControl.zip](https://github.com/user-attachments/files/22724692/PlayerControl.zip)
+
+## Descripción de la solución
+Se movio la elice del avión, se acomodaron las direcciones del avión dentro del ódigo y la rapidez.
+
+
 
 
