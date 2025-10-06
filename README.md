@@ -36,7 +36,7 @@
 ---
 
 # Lecciones
-# Lección 1 — El Control del Jugador
+## Lección 1 — El Control del Jugador
 
 ## Objetivo
 Implementar control del jugador con Rigidbody y entradas básicas.
@@ -53,7 +53,7 @@ Se movio la elice del avión, se acomodaron las direcciones del avión dentro de
 
 ---
 
-# Lección 2 — Jugabilidad básica
+## Lección 2 — Jugabilidad básica
 
 ## Objetivo
 Implementar control del jugador con Rigidbody y entradas básicas.
