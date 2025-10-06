@@ -1,9 +1,8 @@
 # Curso: Fundamentos de Videojuegos 3D — Fase 2  
 **Actividad 1 — Ejecución de tutoriales (20 pts)**
 
-[![Estado](https://img.shields.io/badge/estado-completo-green)]() <!-- cambia según convenga -->
-[![Unity Version](https://img.shields.io/badge/unity-<VERSIÓN>-blue)]()
-[![Autor](https://img.shields.io/badge/autor-<NOMBRE>-orange)]()
+[![Unity Version](https://img.shields.io/badge/unity-<20022.3>-blue)]()
+[![Autor](https://img.shields.io/badge/autor-<Karen Linette Cabrera Vidal>-orange)]()
 
 ---
 
@@ -21,7 +20,6 @@
 ---
 
 ## Resumen del proyecto
-Breve descripción (2–4 líneas) del propósito del repositorio:  
 > En este repositorio se presentan las actividades y laboratorios realizados para la **Fase 2** del curso de Fundamentos de Videojuegos en 3D con Unity. Contiene los ejemplos de código, escenas, assets y la evidencia solicitada para cada lección.
 
 ---
