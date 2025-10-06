@@ -36,6 +36,8 @@
 ---
 
 # Lecciones
+
+---
 ## Lección 1 — El Control del Jugador
 
 ## Objetivo
