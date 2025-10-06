@@ -35,7 +35,6 @@
 
 ---
 
-## Estructura del repositorio
 # Lección 1 — El Control del Jugador
 
 ## Objetivo
