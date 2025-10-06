@@ -58,13 +58,13 @@ Se movio la elice del avión, se acomodaron las direcciones del avión dentro de
 
 ## Evidencias
 - Capturas:
-  
+  [GameplayBasic - capturas.pdf](https://github.com/user-attachments/files/22727066/GameplayBasic.-.capturas.pdf)
 - Video
 - Asset:
-  
+  [GameplayBasic.zip](https://github.com/user-attachments/files/22727071/GameplayBasic.zip)
 
 ## Descripción de la solución
-Se movio la elice del avión, se acomodaron las direcciones del avión dentro del ódigo y la rapidez.
+Se agregaron pelotas auomaticas, y que saliera perritos al darle click a la barra espaciadora.
 
 
 
