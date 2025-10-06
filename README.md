@@ -1,5 +1,5 @@
-# Curso: Fundamentos de Videojuegos 3D — Fase 2  
-**Actividad 1 — Ejecución de tutoriales (20 pts)**
+# Curso: Fundamentos de Videojuegos 3D
+**Actividad 1 — Ejecución de tutoriales**
 
 [![Unity Version](https://img.shields.io/badge/unity-<2022.3>-blue)]()
 [![Autor](https://img.shields.io/badge/autor-<Linette_Vidal>-orange)]()
