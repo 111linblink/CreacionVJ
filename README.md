@@ -9,8 +9,8 @@
 ## Índice
 1. [Resumen del proyecto](#resumen-del-proyecto)  
 2. [Autor(es)](#autores)  
-3. [Objetivo de la actividad](#objetivo-de-la-actividad)  
-4. [Contenido entregable / Estructura del repositorio](#estructura-del-repositorio)  
+3. [Objetivo de la actividad](#objetivo-de-la-actividad) 
+4. [Lecciones](#lecciones)
 
 ---
 
