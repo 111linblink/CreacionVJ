@@ -2,7 +2,7 @@
 **Actividad 1 — Ejecución de tutoriales**
 
 [![Unity Version](https://img.shields.io/badge/unity-<2022.3>-blue)]()
-[![Autor](https://img.shields.io/badge/autor-<Linette_Vidal>-orange)]()
+[![Autor](https://img.shields.io/badge/autor-<Linette_Vidal>-pink)]()
 
 ---
 
