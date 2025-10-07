@@ -54,7 +54,7 @@ Se movio la elice del avión, se acomodaron las direcciones del avión dentro de
 ## Lección 2 — Jugabilidad básica
 
 ## Objetivo
-
+Implementar prefabs, collider, disparos y condiciones
 
 ## Evidencias
 - Capturas:
