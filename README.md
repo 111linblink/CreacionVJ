@@ -44,7 +44,7 @@ Implementar control del jugador con Rigidbody y entradas básicas.
   https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion1/Leccion%2001%20Player%20Control.pdf
 - Video
 - Asset
-  [PlayerControl.zip](https://github.com/user-attachments/files/22724692/PlayerControl.zip)
+  https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion1/PlayerControl.unitypackage
 
 ## Descripción de la solución
 Se movio la elice del avión, se acomodaron las direcciones del avión dentro del ódigo y la rapidez.
