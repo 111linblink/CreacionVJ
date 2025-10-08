@@ -57,11 +57,11 @@ Se movio la elice del avión, se acomodaron las direcciones del avión dentro de
 Implementar prefabs, collider, disparos y condiciones
 
 ## Evidencias
-- Capturas:
-  [GameplayBasic - capturas.pdf](https://github.com/user-attachments/files/22727066/GameplayBasic.-.capturas.pdf)
+- Capturas: 
+  https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion%2002%20Gameplay%20basic.pdf
 - Video
 - Asset:
-  [GameplayBasic.zip](https://github.com/user-attachments/files/22727071/GameplayBasic.zip)
+  https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/GameplayBasic.unitypackage
 
 ## Descripción de la solución
 Se agregaron pelotas auomaticas, y que saliera perritos al darle click a la barra espaciadora.
