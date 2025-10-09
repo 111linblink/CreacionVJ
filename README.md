@@ -40,11 +40,11 @@
 Implementar control del jugador con Rigidbody y entradas básicas.
 
 ## Evidencias
-- Capturas
-  https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion1/Leccion%2001%20Player%20Control.pdf
-- Video
-- Asset
-  https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion1/PlayerControl.unitypackage
+## Evidencias
+- 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion1/Leccion%2001%20Player%20Control.pdf)
+- 🎥 [Video](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion1/Leccion1.mp4)
+- 🎮 [Asset](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion1/PlayerControl.unitypackage)
+
 
 ## Descripción de la solución
 Se movio la elice del avión, se acomodaron las direcciones del avión dentro del ódigo y la rapidez.
@@ -54,14 +54,12 @@ Se movio la elice del avión, se acomodaron las direcciones del avión dentro de
 ## Lección 2 — Jugabilidad básica
 
 ## Objetivo
-Implementar prefabs, collider, disparos y condiciones
+Implementar prefabs, collider, disparos y condiciones. Asi como tambien el cumplimiento del challeneg2.
 
 ## Evidencias
-- Capturas: 
-  https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion%2002%20Gameplay%20basic.pdf
-- Video
-- Asset:
-  https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/GameplayBasic.unitypackage
+- 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion%2002%20Gameplay%20basic.pdf)
+- 🎥 [Video](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion2.mp4)
+- 🎮 [Asset](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/GameplayBasic.unitypackage)
 
 ## Descripción de la solución
 Se agregaron pelotas auomaticas, y que saliera perritos al darle click a la barra espaciadora.
