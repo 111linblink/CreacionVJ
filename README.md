@@ -40,7 +40,6 @@
 Implementar control del jugador con Rigidbody y entradas básicas.
 
 ## Evidencias
-## Evidencias
 - 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion1/Leccion%2001%20Player%20Control.pdf)
 - 🎥 [Video](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion1/Leccion1.mp4)
 - 🎮 [Asset](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion1/PlayerControl.unitypackage)
