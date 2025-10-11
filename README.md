@@ -63,6 +63,16 @@ Implementar prefabs, collider, disparos y condiciones. Asi como tambien el cumpl
 ## Descripción de la solución
 Se agregaron pelotas auomaticas, y que saliera perritos al darle click a la barra espaciadora.
 
+# Ejercicios Practicos
 
+---
+
+## Ejercicio practico 3
+
+## Objetivo
+Implementar un menú básico en unity.
+
+## Evidencias
+- 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion%2002%20Gameplay%20basic.pdf)
 
 
