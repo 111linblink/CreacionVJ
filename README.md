@@ -11,6 +11,7 @@
 2. [Autor(es)](#autores)  
 3. [Objetivo de la actividad](#objetivo-de-la-actividad) 
 4. [Lecciones](#lecciones)
+5. [Ejercicios Practicos](#ejercicios-practicos)
 
 ---
 
@@ -73,6 +74,6 @@ Se agregaron pelotas auomaticas, y que saliera perritos al darle click a la barr
 Implementar un menú básico en unity.
 
 ## Evidencias
-- 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion%2002%20Gameplay%20basic.pdf)
+- 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/EjerciciosPracticos/Ejercicio3/practica3%20-%20capturas.pdf)
 
 
