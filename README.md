@@ -11,6 +11,7 @@
 2. [Autor(es)](#autores)  
 3. [Objetivo de la actividad](#objetivo-de-la-actividad) 
 4. [Lecciones](#lecciones)
+5. [Ejercicios Practicos](#ejercicios-practicos)
 
 ---
 
@@ -56,13 +57,23 @@ Se movio la elice del avión, se acomodaron las direcciones del avión dentro de
 Implementar prefabs, collider, disparos y condiciones. Asi como tambien el cumplimiento del challeneg2.
 
 ## Evidencias
-- 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion%2002%20Gameplay%20basic.pdf)
+- 📸 [Capturas]()
 - 🎥 [Video](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion2.mp4)
 - 🎮 [Asset](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/GameplayBasic.unitypackage)
 
 ## Descripción de la solución
 Se agregaron pelotas auomaticas, y que saliera perritos al darle click a la barra espaciadora.
 
+# Ejercicios Practicos
 
+---
+
+## Ejercicio practico 3
+
+## Objetivo
+Implementar un menú básico en unity.
+
+## Evidencias
+- 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/EjerciciosPracticos/Ejercicio3/practica3%20-%20capturas.pdf)
 
 
