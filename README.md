@@ -54,15 +54,34 @@ Se movio la elice del avión, se acomodaron las direcciones del avión dentro de
 ## Lección 2 — Jugabilidad básica
 
 ## Objetivo
-Implementar prefabs, collider, disparos y condiciones. Asi como tambien el cumplimiento del challeneg2.
+Implementar **prefabs**, **colliders**, **disparos** y **condiciones lógicas**, además de completar el **Challenge 2**, aplicando los fundamentos de programación y mecánicas de juego en Unity.
 
 ## Evidencias
-- 📸 [Capturas]()
+- 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion02%20-%20GameplayBasic.pdf)
 - 🎥 [Video](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion2.mp4)
 - 🎮 [Asset](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/GameplayBasic.unitypackage)
 
 ## Descripción de la solución
-Se agregaron pelotas auomaticas, y que saliera perritos al darle click a la barra espaciadora.
+Se implementaron pelotas que caen automáticamente desde posiciones aleatorias, y se agregó la función que permite lanzar **perritos al presionar la barra espaciadora**, representando el sistema de disparo del juego.
+
+---
+
+## Lección 3 — Sonido y efectos
+
+## Objetivo
+Así como tambien la implementación de sonidos y efectos dentro del juego, en una ciudad mientras un personaje corre y pasa por distintos obstaculos.
+Aplica tus conocimientos de física, fondos con desplazamiento lateral y efectos especiales a un **globo que flota a través de un pueblo** mientras recolecta tokens y esquiva explosivos.  
+El proyecto presenta varios errores iniciales que deberás corregir para lograr un prototipo funcional.
+
+## Evidencias
+- 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion3/Leccion3%20-%20Balloons%2C%20Bombs%2C%20%26%20Booleans.pdf)
+- 🎥 [Video](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion3/Leccion3.mp4)
+- 🎮 [Asset](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion3/Leccion%2003%20-%20Balloons%2C%20Bombs%2C%20%26%20Booleans.unitypackage)
+
+## Descripción de la solución
+Se implementaron objetos con movimiento automático, se añadió la funcionalidad para que el globo responda a la barra espaciadora y se incorporaron efectos visuales y de sonido que enriquecen la jugabilidad.
+
+---
 
 # Ejercicios Practicos
 
