@@ -57,7 +57,7 @@ Se movio la elice del avión, se acomodaron las direcciones del avión dentro de
 Implementar prefabs, collider, disparos y condiciones. Asi como tambien el cumplimiento del challeneg2.
 
 ## Evidencias
-- 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion%2002%20Gameplay%20basic.pdf)
+- 📸 [Capturas]()
 - 🎥 [Video](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/Leccion2.mp4)
 - 🎮 [Asset](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion2/GameplayBasic.unitypackage)
 
