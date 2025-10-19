@@ -84,7 +84,7 @@ Se implementaron objetos con movimiento automático, se añadió la funcionalida
 ## Lección 5 — Interfaz de usuario
 
 ## Objetivo
-
+Desarrollar un juego tipo whack-a-mole para poner a prueba los reflejos del jugador. El objetivo es hacer clic sobre los objetos que aparecen aleatoriamente en pantalla antes de que desaparezcan. Durante el desarrollo se implementó una interfaz de usuario (UI) completa que incluye una pantalla de inicio con selección de dificultad, un marcador que muestra el puntaje del jugador y una pantalla de fin del juego con opción para reiniciar la partida. Este proyecto permitió aplicar conceptos de generación aleatoria, detección de clics, control del flujo del juego y diseño de una experiencia jugable de principio a fin.
 
 ## Evidencias
 - 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion5/Leccion05%20-%20userInterface.pdf)
@@ -92,7 +92,7 @@ Se implementaron objetos con movimiento automático, se añadió la funcionalida
 - 🎮 [Asset](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion5/Leccion05%20-%20userInterface%20-%20whackAFood.unitypackage)
 
 ## Descripción de la solución
-Se implementaron objetos con movimiento automático, se añadió la funcionalidad para que el globo responda a la barra espaciadora y se incorporaron efectos visuales y de sonido que enriquecen la jugabilidad.
+Se programó la lógica principal del juego controlada por el script GameManagerX, encargado de gestionar el puntaje, el estado del juego y la generación aleatoria de objetos. Se implementó el script DifficultyButtonX para vincular los botones del menú de inicio con distintos niveles de dificultad, ajustando la velocidad de aparición de los objetivos según la selección del jugador. Además, se corrigió un error de referencia (NullReferenceException) y un error de parámetro faltante al invocar el método StartGame(int difficulty).
 
 ---
 
