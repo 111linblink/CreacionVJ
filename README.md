@@ -81,6 +81,19 @@ El proyecto presenta varios errores iniciales que deberás corregir para lograr 
 ## Descripción de la solución
 Se implementaron objetos con movimiento automático, se añadió la funcionalidad para que el globo responda a la barra espaciadora y se incorporaron efectos visuales y de sonido que enriquecen la jugabilidad.
 
+## Lección 5 — Interfaz de usuario
+
+## Objetivo
+
+
+## Evidencias
+- 📸 [Capturas](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion5/Leccion05%20-%20userInterface.pdf)
+- 🎥 [Video](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion5/Leccion5.mp4)
+- 🎮 [Asset](https://github.com/111linblink/CreacionVJ/blob/main/Lecciones/Leccion5/Leccion05%20-%20userInterface%20-%20whackAFood.unitypackage)
+
+## Descripción de la solución
+Se implementaron objetos con movimiento automático, se añadió la funcionalidad para que el globo responda a la barra espaciadora y se incorporaron efectos visuales y de sonido que enriquecen la jugabilidad.
+
 ---
 
 # Ejercicios Practicos
