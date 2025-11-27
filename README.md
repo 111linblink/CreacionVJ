@@ -12,6 +12,7 @@
 3. [Objetivo de la actividad](#objetivo-de-la-actividad) 
 4. [Lecciones](#lecciones)
 5. [Ejercicios Practicos](#ejercicios-practicos)
+6. [Videojuego](videojuego)
 
 ---
 
