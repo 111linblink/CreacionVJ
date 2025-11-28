@@ -123,6 +123,6 @@ Implementar un menú básico en unity.
 - 🎮 [Juego](https://111linette.itch.io/escape-del-silencio-web-demo)
 ---
 ## Apk Android
-- 🎮[Apk]()
+- 🎮[Apk]() Esta muy pesado y no alcanza a subirse.
 
 
